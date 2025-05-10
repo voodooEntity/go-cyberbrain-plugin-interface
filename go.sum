@@ -1,2 +1,4 @@
 github.com/voodooEntity/gits v0.9.1 h1:V5fv04lUQVD2qrbm5kziC2b7etu5BOmMFWTx1QWbook=
 github.com/voodooEntity/gits v0.9.1/go.mod h1:VB7qpYFyIXzP9pO9IukCGTg7mJ9FLlpXY6dqsCu1LlY=
+github.com/voodooEntity/gits v0.9.5-0.20250510090320-4e8de2ca119c h1:fTgVvSi0MJ4RlU+ONvMJq0if7KorxLhHgmtdO4gMKUw=
+github.com/voodooEntity/gits v0.9.5-0.20250510090320-4e8de2ca119c/go.mod h1:VB7qpYFyIXzP9pO9IukCGTg7mJ9FLlpXY6dqsCu1LlY=
